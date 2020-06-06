@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/trias-project/eu-species-of-concern-interactions.svg)](https://travis-ci.org/github/trias-project/eu-species-of-concern-interactions) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:trias-project/eu-species-of-concern-interactions)](http://globalbioticinteractions.org/?accordingTo=globi:trias-project/eu-species-of-concern-interactions) 
+
 # Species interactions of EU List of Concern Species
 
 The European Union has a [List of Invasive Alien Species of Union concern](https://ec.europa.eu/environment/nature/invasivealien/list/index_en.htm). Information on the interactions of these species with other species in Europe will help understand the potential impacts of these species on biodiversity.
