@@ -6,6 +6,8 @@ The European Union has a [List of Invasive Alien Species of Union concern](https
 
 This repository mobilises data on species interations from published sources to the [Global Biotic Interactions (GloBI)](http://globalbioticinteractions.org) database. The species covered are primarily listed species, however, interacting species and other species mentioned interacting within the publications are also captured.
 
+This repository is cloned from https://github.com/globalbioticinteractions/template-dataset. In that repository you will find an explanation of how the repository works. To simply add new interactions, update the tab-delimited file 'interactions.tsv'. A guide to the column contents is here https://github.com/globalbioticinteractions/template-dataset#data-format-and-dictionary. Also, add the references you used to the README.md and push both files back to the repository.
+
 ## Listed species currently covered
 
 1. *Ailanthus altissima* (Mill.) Swingle
