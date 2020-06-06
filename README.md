@@ -6,8 +6,8 @@ This repository mobilises data on species interations from published sources to 
 
 ## Listed species currently covered
 
-1. *Ailanthus altissima*
-2. *Impatiens glandulifera*
+1. *Ailanthus altissima* (Mill.) Swingle
+2. *Impatiens glandulifera* Royle
 
 ## References
 
