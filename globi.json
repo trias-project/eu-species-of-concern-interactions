@@ -1,4 +1,6 @@
 { 
   "_comment": "Sample GloBI dataset descriptor. See http://github.com/globalbioticinteractions for more information.",
-  "citation": "Jorrit H. Poelen. 2014. Species associations manually extracted from literature."
+  "citation": "Quentin J. Groom. 2020. Species interactions of species on the List of invasive alien species of Union concern",
+  "licence": "CC0",
+  "version": "1.0"
 }
