@@ -13,8 +13,11 @@ This repository is cloned from https://github.com/globalbioticinteractions/templ
 1. *Ailanthus altissima* (Mill.) Swingle
 2. *Impatiens glandulifera* Royle
 3. *Myocastor coypus* Kerr, 1792
+4. *Nyctereutes procyonoides* (Gray, 1834)
 
 ## References
 * Abbas, A. (1991). Feeding strategy of coypu (*Myocastor coypus*) in central western France. *Journal of Zoology*, **224(3)**, 385-401. [https://doi.org/10.1111/j.1469-7998.1991.tb06033.x](https://doi.org/10.1111/j.1469-7998.1991.tb06033.x)
+* Elmeros, M., Mikkelsen, D. M. G., Nørgaard, L. S., Pertoldi, C., Jensen, T. H., & Chriél, M. (2018). The diet of feral raccoon dog (*Nyctereutes procyonoides*) and native badger (*Meles meles*) and red fox (*Vulpes vulpes*) in Denmark. *Mammal Research*, **63(4)**, 405-413. [https://doi.org/10.1007/s13364-018-0372-2]
+* Sutor, A., Kauhala, K., & Ansorge, H. (2010). Diet of the raccoon dog Nyctereutes procyonoides—a canid with an opportunistic foraging strategy. *Acta Theriologica*, **55(2)**, 165-176. [https://doi.org/10.4098/j.at.0001-7051.035.2009]
 * Thompson, J. S. (2008). Pollination biology of *Ailanthus altissima* (Mill.) Swingle (Tree-of-Heaven) in the Mid-Atlantic United States (Doctoral dissertation, Virginia Tech). URI:[http://hdl.handle.net/10919/32586](http://hdl.handle.net/10919/32586)
 * Vervoort, A., Cawoy, V., & Jacquemart, A. (2011). Comparative Reproductive Biology in Co-Occurring Invasive and Native Impatiens Species. *International Journal of Plant Sciences*, **172(3)**, 366-377. [https://doi.org/10.1086/658152](https://doi.org/10.1086/658152)
