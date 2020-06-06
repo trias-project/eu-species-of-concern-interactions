@@ -2,9 +2,9 @@
 
 # Species interactions of EU List of Concern Species
 
-The European Union has a [List of Invasive Alien Species of Union concern](https://ec.europa.eu/environment/nature/invasivealien/list/index_en.htm). These are known invasive species with potential to spread and harm native biodiversity. Information on the interactions of these species with other species in Europe will help understand the potential impacts of these species on biodiversity.
+The European Union has a [List of Invasive Alien Species of Union concern](https://ec.europa.eu/environment/nature/invasivealien/list/index_en.htm). These are known invasive species with the potential to spread and harm native biodiversity. Information on the interactions of these species with other species in Europe will help us understand the impacts of these species on biodiversity.
 
-This repository mobilises data on species interations from published sources to the [Global Biotic Interactions (GloBI)](http://globalbioticinteractions.org) database. The species covered are primarily listed species, however, interacting species and other species mentioned interacting within the publications are also captured.
+This repository mobilises data on species interations from published sources to the [Global Biotic Interactions (GloBI)](http://globalbioticinteractions.org) database. The species included are primarily those on the Union List of Cencern, however, interacting species and other species mentioned interacting within the publications are also captured.
 
 This repository is cloned from https://github.com/globalbioticinteractions/template-dataset. In that repository you will find an explanation of how the repository works. To simply add new interactions, update the tab-delimited file 'interactions.tsv'. A guide to the column contents is here https://github.com/globalbioticinteractions/template-dataset#data-format-and-dictionary. Also, add the references you used to the README.md and push both files back to the repository.
 
