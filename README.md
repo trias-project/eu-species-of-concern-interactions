@@ -16,12 +16,14 @@ This repository is cloned from https://github.com/globalbioticinteractions/templ
 2. *Impatiens glandulifera* Royle
 3. *Myocastor coypus* Kerr, 1792
 4. *Nyctereutes procyonoides* (Gray, 1834)
-5. *Vespa mandarinia* Smith, 1852
+5. *Threskiornis aethiopicus* (Latham, 1790)
+6. *Vespa mandarinia* Smith, 1852
 
 ## References
 * Abbas, A. (1991). Feeding strategy of coypu (*Myocastor coypus*) in central western France. *Journal of Zoology*, **224(3)**, 385-401. [https://doi.org/10.1111/j.1469-7998.1991.tb06033.x](https://doi.org/10.1111/j.1469-7998.1991.tb06033.x)
-* Beerling, D. J., & Perrins, J. M. (1993). Impatiens glandulifera Royle (Impatiens roylei Walp.). Journal of Ecology, 81(2), 367-382.
-Horsley, C. A. (2013). Pollinator-mediated interactions between native plants and the invasive alien Himalayan balsam. University of Leeds.
+* Beerling, D. J., & Perrins, J. M. (1993). Impatiens glandulifera Royle (*Impatiens roylei* Walp.). *Journal of Ecology*, **81(2)**, 367-382.
+* Clergeau, p., Reeber, S., Bastain, S. & Yesou, P. (2010) Le profil alimentaire de l'Ibis sacré Threskiornis aethiopicus introduit en France métropolitaine : espèce généraliste ou spécialiste ? ; Revue d'écologie, 2010, vol. 65, N°4, pp. 331-342
+* Horsley, C. A. (2013). Pollinator-mediated interactions between native plants and the invasive alien Himalayan balsam. University of Leeds.
 * Elmeros, M., Mikkelsen, D. M. G., Nørgaard, L. S., Pertoldi, C., Jensen, T. H., & Chriél, M. (2018). The diet of feral raccoon dog (*Nyctereutes procyonoides*) and native badger (*Meles meles*) and red fox (*Vulpes vulpes*) in Denmark. *Mammal Research*, **63(4)**, 405-413. https://doi.org/10.1007/s13364-018-0372-2
 * Kauhala, K., Kaunisto, M., & Helle, E. (1993). Diet of the raccoon dog, *Nyctereutes procyonoides*, in Finland. *Zeitschrift für säugetierkunde*, **58(3)**, 129-136. https://www.biodiversitylibrary.org/part/192108
 * Matsuura, M., & SAKAGAMI, S. F. (1973). A Bionomic Sketch of the Giant Hornet, Vespa mandarinia, a Serious Pest for Japanese Apiculture (With 12 Text-figures and 5 Tables). 北海道大學理學部紀要= JOURNAL OF THE FACULTY OF SCIENCE HOKKAIDO UNIVERSITY Series VI. ZOOLOGY, 19(1), 125-162.
