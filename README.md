@@ -13,11 +13,12 @@ This repository is cloned from https://github.com/globalbioticinteractions/templ
 ## Listed species currently covered
 
 1. *Ailanthus altissima* (Mill.) Swingle
-2. *Impatiens glandulifera* Royle
-3. *Myocastor coypus* Kerr, 1792
-4. *Nyctereutes procyonoides* (Gray, 1834)
-5. *Threskiornis aethiopicus* (Latham, 1790)
-6. *Vespa mandarinia* Smith, 1852
+2. *Callosciurus erythraeus* (Pallas, 1779)
+3. *Impatiens glandulifera* Royle
+4. *Myocastor coypus* Kerr, 1792
+5. *Nyctereutes procyonoides* (Gray, 1834)
+6. *Threskiornis aethiopicus* (Latham, 1790)
+7. *Vespa mandarinia* Smith, 1852
 
 ## References
 * Abbas, A. (1991). Feeding strategy of coypu (*Myocastor coypus*) in central western France. *Journal of Zoology*, **224(3)**, 385-401. [https://doi.org/10.1111/j.1469-7998.1991.tb06033.x](https://doi.org/10.1111/j.1469-7998.1991.tb06033.x)
